@@ -36,6 +36,15 @@ python main.py
 - Boolean Logic
 - Conditional Expressions
 
+
+## Future Improvements
+
+- Password strength score display
+- Suggestions for stronger passwords
+- GUI version using Tkinter
+- Password breach checking API integration
+
+
 ---
 
 Made with Python 🐍
